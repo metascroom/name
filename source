@@ -15,6 +15,10 @@ local slurs = {
 "Semen",
 "Sex",
 "Sexual Intercourse",
+"I Rape My Children",
+"Nigga",
+"Your Mom So Black",
+"Faggot Ass"
 }
 
 while task.wait(duration) do
