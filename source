@@ -2,19 +2,19 @@ local player = game.Players.LocalPlayer
 local chat = player:FindFirstChild("PlayerGui"):FindFirstChild("ChatBar", true)
 local duration = .05
 local slurs = {
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
-"I Rape My Children",
+"Genshin Impact Player",
+"Hates Morbius",
+" ",
+"Fuck",
+"Shit",
+"Ass",
+"Vagina",
+"Penis",
+"Cock",
+"Cum",
+"Semen",
+"Sex",
+"Sexual Intercourse",
 }
 
 while task.wait(duration) do
